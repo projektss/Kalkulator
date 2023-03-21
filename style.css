@@ -98,7 +98,6 @@ body {
   background-color: rgb(74, 85, 206);
   cursor: pointer;
   padding-left: 7px;
-  padding-top: 1px;
   border-style: solid;
   font-size: 24px;
 }
@@ -126,7 +125,6 @@ body {
   background-color: rgb(255, 132, 0);
   cursor: pointer;
   padding-left: 7px;
-  padding-top: 5px;
   border-style: solid;
   font-size: 24px;
 }
