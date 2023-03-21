@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: arial;
-  font-size: 40px;
+  font-size: 32px;
 }
 .container {
   height: 100vh;
@@ -95,7 +95,7 @@ body {
   height: 45px;
   color: white;
   border-radius: 5px;
-  border-color: red;
+  border-color: black;
   background-color: rgb(74, 85, 206);
   cursor: pointer;
   padding-left: 7px;
@@ -123,6 +123,7 @@ body {
   height: 45px;
   color: white;
   border-radius: 5px;
+  border-color: black;
   background-color: rgb(255, 132, 0);
   cursor: pointer;
   padding-left: 7px;
