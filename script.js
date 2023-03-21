@@ -1,5 +1,5 @@
 // pobieramy element wyświetlacza
-const screen = document.querySelector(".typescreen");
+const screen = document.querySelector(".typescreen"); 
 
 // pobieramy wszystkie przyciski numeryczne
 const buttons = document.querySelectorAll(".button1");
